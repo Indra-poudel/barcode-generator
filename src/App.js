@@ -1,10 +1,10 @@
 import React from 'react';
 
-import Router from './router';
+import Home from './pages/home';
 
 const App = () => (
   <React.Fragment>
-    <Router />
+    <Home />
   </React.Fragment>
 );
 
