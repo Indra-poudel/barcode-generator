@@ -1,6 +1,6 @@
 # Bar code generator
 
-Repo for  React js Starter.
+Repo for  Bar code generator
 
 ## Setup
 
