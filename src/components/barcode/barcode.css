@@ -1,7 +1,11 @@
 .barcode-view-header {
   text-align: center;
+  display: block;
+  margin-top: 40px;
 }
 
-.barcode-wrapper, .barcode-view {
+.barcode-view {
   margin-top: 40px;
+  display: flex;
+  text-align: center;
 }
