@@ -1,6 +1,14 @@
 * {
-    padding: 0px;
-    margin: 0px;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background-color: #eeeeee;
+  display: flex;
+  justify-content: center;
+}

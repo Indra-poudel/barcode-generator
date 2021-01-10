@@ -1,0 +1,26 @@
+.barcode-input {
+  outline: none;
+  width: 500px;
+  font-size: 16px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.0.7);
+}
+
+.barcode-input:focus {
+  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+  border: 1px solid rgba(81, 203, 238, 1);
+}
+
+.barcode-input-wrapper {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.barcode-input-error {
+  font-size: 12px;
+  color: tomato;
+  margin-top: 12px;
+}
